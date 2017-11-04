@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
                 themedToolbar(theme = R.style.ThemeOverlay_AppCompat_ActionBar) {
                     popupTheme = R.style.AppTheme_PopupOverlay
                     id = TOOLBAR
-                    title = "我的公益时"
+                    title = "我的公益时记录"
                     //setTitleTextColor(Color.WHITE)
                     setBackgroundColor(R.attr.colorPrimary)
 
